@@ -3,5 +3,9 @@
     "serverName": "ANONX.YWY.UB",
     "iconName": "fbi.png",
     "terminalID": "dg",
-    "randomSeed": true
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "privateConnection"
+    }
 }
