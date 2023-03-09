@@ -1,7 +1,7 @@
 {
     "serverAddress": "anonx.ywy.ub",
     "serverName": "ANONX.YWY.UB",
-    "iconName": "fbi.png",
+    "iconName": "dg.png",
     "terminalID": "dg",
     "defaultUser": {
         "userId": "user",
