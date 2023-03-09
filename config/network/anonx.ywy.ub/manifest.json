@@ -1,1 +1,7 @@
-
+{
+    "serverAddress": "anonx.ywy.ub",
+    "serverName": "ANONX.YWY.UB",
+    "iconName": "fbi.png",
+    "terminalID": "dg",
+    "randomSeed": true
+}
