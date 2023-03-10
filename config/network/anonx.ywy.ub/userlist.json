@@ -3,5 +3,29 @@
         "userId": "dgax1@anonx.com",
         "password": "library",
         "userName": "Agent ALPHONSE"
+    },
+    
+    {
+        "userId": "dgtx1@anonx.com",
+        "password": "serpent",
+        "userName": "Agent TITUS"
+    },
+    
+    {
+        "userId": "dgt2@anonx.com",
+        "password": "write",
+        "userName": "Agent TANYA"
+    },
+    
+    {
+        "userId": "dgt2@anonx.com",
+        "password": "action",
+        "userName": "Agent TERRA"
+    },
+    
+    {
+        "userId": "dgt3@anonx.com",
+        "password": "read",
+        "userName": "Agent TIMMOTHY"
     }
 ]
