@@ -2,7 +2,7 @@
     "serverAddress": "anonx.ywy.ub",
     "serverName": "ANONX.YWY.UB",
     "iconName": "dg.jpg",
-    "terminalID": "deltagreen",
+    "terminalID": "<distrib@anonx.com>",
     "defaultUser": {
         "userId": "user",
         "password": "",
