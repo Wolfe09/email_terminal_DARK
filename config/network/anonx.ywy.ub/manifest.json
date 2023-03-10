@@ -4,8 +4,8 @@
     "iconName": "dg.jpg",
     "terminalID": "<distrib@anonx.com>",
     "defaultUser": {
-        "userId": "user",
+        "userId": "agent",
         "password": "",
-        "userName": "privateConnection"
+        "userName": "anon"
     }
 }
