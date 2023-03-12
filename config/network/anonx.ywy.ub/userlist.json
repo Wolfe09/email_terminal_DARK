@@ -27,5 +27,11 @@
         "userId": "dgt3@anonx.com",
         "password": "read",
         "userName": "Agent TIMMOTHY"
+    },
+    
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
     }
 ]
