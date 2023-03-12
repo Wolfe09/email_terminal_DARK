@@ -12,7 +12,7 @@
         ]
     },
     "cdata.exe": {
-        "protection": ["admin"],
+        "protection": ["admin", "dgax1@anonx.com"],
         "delayed": 2000,
         "message": [
             "Corrupting data.",
@@ -35,4 +35,35 @@
     "artifact": {},
     "decrypt": {},
     "identify": {}
+    "last-report": {
+        "protection": ["admin", "dgax1@anonx.com"],
+        "message": [
+            "<BOF>",
+            "",
+            "Major General Reginald Fairfield, U.S. Army (Ret.)",
+            "Final Report",
+            "2/25/94",
+            "",
+            "It’s been twenty-four years, a month, and two days since the bastards brought us down.",
+            "In that time we’ve come back strong, doing things they couldn’t conceive of. They think they understand us, those who know we’re still around. They think we’re cowboys, meddlers.... They think we’re just too pig-headed and selfish and old to let go of what we once were.",
+            "They know nothing.",
+            "They think they’re better than us. Stronger than us. And worst of all, they just plain think they’re right. They sit in their offices and debate the Accord with the skinny little fucks from space. They sell out the American dream in exchange for stealth technology and sonic weapons. They betray our highest ideals, our loftiest principles. They’ve lost sight of whom they serve--the people who vote them and their kind into power. They’ve forgotten why they’re in power.",
+            "They know nothing.",
+            "Every night my teeth rest in a glass and every morning I have a bowel movement and I couldn’t even begin to get it up these days. My eyes are hollow and blood- shot and my wife left me fifteen years ago. My children are callow monsters who laugh at me and the ideals I cherish as they vote fools into office because they saw them on MTV.",
+            "They know nothing.",
+            "The Majestic group made the deal. They signed over the constitution to the Greys, those bastards from space--or so they claim--in exchange for technology and information. Majestic thumbs their nose at the executive branch and has more security clearances than brains. They call the shots when it comes to the Accord with the Greys, and they dispense the technology breakthroughs and they cover their tracks and they let the aliens do whatever they like to God-fearing U.S. citizens. They’re fools. I’ve seen the Greys for what they really are, and they sure as hell aren’t refugees fleeing a sun gone nova. The things that lie behind the Greys are no different from the things I’ve been fighting on the edges of reality since ‘61. I couldn’t begin to guess what they’re really up to, but Majestic couldn’t care less. They just want to make deals and cover their asses.",
+            "They know nothing. But they know enough.",
+            "They know what I’ve been up to. Finally, after fourteen years, a month, and two days, they’ve figured it out. The news reached me fifteen minutes ago through six connections and two satellite bounces- the news that they were coming for me. I could give a shit. I’ve lived life true and full and rich and I’ve never betrayed my country. I’ve done my duty and ten times more and I regret nothing. Nothing.",
+            "I have, perhaps, another ten minutes before they arrive. They’ll come tromping through the snow and put a bullet in my brain. My communications have been “out of order” for hours, all except for the line I laid myself three years ago after hoarding the equipment for twice that time. That’s my escape route. A digital relay that will take this letter and the accompanying files and put them in the hands of my successors. A line that our slimy twin DELTA, the Majestic wetworks boys, know nothing of. I’ve used it five times since I set it up, and it, at least, is secure. It’s enough to get this information into the hands of Delta Green. It may be enough to save this planet a few times more.",
+            "That’s it. My power just died, except for the backup generator I installed in the basement for this room. They’re upstairs, tripping my internal alarms. In minutes they’ll come through the hidden passage and spread my insides across the wall.",
+            "Before they do, they’ll have a fight on their hands. I may be eighty, but I’m the toughest goddamn son of a bitch these assholes will ever meet. I’m Delta Green, and I’m not dying alone.",
+            "But first, I’m going to hit Send and put this information into the hands of a few people who will carry on the fight. People who will crush the Accord and--when the time comes--who will tell the public about all the lies our government has been force-feeding them since the Roswell saucer crash in 1947. They’ll carry on and they’ll fight hard and true and maybe they’ll leave a better world for their children than the one I’m leaving behind.",
+            "Entry One has been breached. Time to get this show on the road. They have no idea the kind of Hell I’ve prepared for them. May God have mercy on my soul.",
+            "",
+            "(signed)",
+            "Major General Reginald Fairfield, U.S. Army (Ret.)",
+            "",
+            "<EOF>",
+        ]
+    }
 }
