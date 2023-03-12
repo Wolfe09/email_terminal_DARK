@@ -35,15 +35,13 @@
     "artifact": {},
     "decrypt": {},
     "identify": {},
-    "final-report.exe": {
+    "final-report": {
         "protection": ["admin"],
         "message": [
             "<BOF>",
-            "",
             "Major General Reginald Fairfield, U.S. Army (Ret.)",
             "Final Report",
             "2/25/94",
-            "",
             "It’s been twenty-four years, a month, and two days since the bastards brought us down.",
             "In that time we’ve come back strong, doing things they couldn’t conceive of. They think they understand us, those who know we’re still around. They think we’re cowboys, meddlers.... They think we’re just too pig-headed and selfish and old to let go of what we once were.",
             "They know nothing.",
@@ -59,10 +57,8 @@
             "Before they do, they’ll have a fight on their hands. I may be eighty, but I’m the toughest goddamn son of a bitch these assholes will ever meet. I’m Delta Green, and I’m not dying alone.",
             "But first, I’m going to hit Send and put this information into the hands of a few people who will carry on the fight. People who will crush the Accord and--when the time comes--who will tell the public about all the lies our government has been force-feeding them since the Roswell saucer crash in 1947. They’ll carry on and they’ll fight hard and true and maybe they’ll leave a better world for their children than the one I’m leaving behind.",
             "Entry One has been breached. Time to get this show on the road. They have no idea the kind of Hell I’ve prepared for them. May God have mercy on my soul.",
-            "",
             "(signed)",
             "Major General Reginald Fairfield, U.S. Army (Ret.)",
-            "",
             "<EOF>"
         ]
     }
