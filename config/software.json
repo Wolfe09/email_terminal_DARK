@@ -12,7 +12,7 @@
         ]
     },
     "cdata.exe": {
-        "protection": ["admin", "dgax1@anonx.com"],
+        "protection": ["admin",],
         "delayed": 2000,
         "message": [
             "Corrupting data.",
@@ -35,7 +35,7 @@
     "artifact": {},
     "decrypt": {},
     "identify": {}
-    "final-report": {
+    "final-report.exe": {
         "protection": ["admin", "dgax1@anonx.com"],
         "message": [
             "<BOF>",
