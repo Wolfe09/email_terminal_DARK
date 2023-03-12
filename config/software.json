@@ -34,7 +34,7 @@
     },
     "artifact": {},
     "decrypt": {},
-    "identify": {}
+    "identify": {},
     "final-report.exe": {
         "protection": ["admin"],
         "message": [
