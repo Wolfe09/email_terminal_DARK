@@ -1,5 +1,34 @@
 [
     {
+        "userId": "ALPHONSE",
+        "password": "library",
+        "userName": "Agent ALPHONSE"
+    },
+    
+    {
+        "userId": "TITUS",
+        "password": "serpent",
+        "userName": "Agent TITUS"
+    },
+    
+    {
+        "userId": "TIMMOTHY",
+        "password": "action",
+        "userName": "Agent TIMMOTHY"
+    },
+    
+    {
+        "userId": "TERRA",
+        "password": "write",
+        "userName": "Agent TERRA"
+    },
+    
+    {
+        "userId": "TANYA",
+        "password": "past",
+        "userName": "Agent TANYA"
+    },
+    {
         "userId": "8A73B5",
         "password": "trustno1",
         "userName": "Mulder, Fox"
