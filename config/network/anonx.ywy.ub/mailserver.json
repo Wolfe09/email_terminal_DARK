@@ -4,7 +4,7 @@
         "to": ["ALPHONSE", "TITUS", "admin"],
         "title": "Testing",
         "body": "First line.  Second line"
-    }
+    },
     {
         "from": "Agent TITUS",
         "to": ["TITUS", "TIMMOTHY", "TERRA", "TANYA"],
