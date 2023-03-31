@@ -12,21 +12,21 @@
     },
     
     {
-        "userId": "dgt2@anonx.com",
-        "password": "write",
-        "userName": "Agent TANYA"
+        "userId": "dgt1@anonx.com",
+        "password": "action",
+        "userName": "Agent TIMMOTHY"
     },
     
     {
         "userId": "dgt2@anonx.com",
-        "password": "action",
+        "password": "write",
         "userName": "Agent TERRA"
     },
     
     {
         "userId": "dgt3@anonx.com",
-        "password": "read",
-        "userName": "Agent TIMMOTHY"
+        "password": "past",
+        "userName": "Agent TANYA"
     },
     
     {
