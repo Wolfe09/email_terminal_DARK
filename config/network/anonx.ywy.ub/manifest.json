@@ -3,10 +3,6 @@
     "serverAddress": "anonx.ywy.ub",
     "serverName": "ANONX.YWY.UB",
     "iconName": "dg.jpg",
-    "terminalID": "<distrib@anonx.com>",
-    "defaultUser": {
-        "userId": "agent",
-        "password": "",
-        "userName": "anon"
-    }
+    "terminalID": "<distrib@anonx.com>"
+    "randomSeed": true
 }
