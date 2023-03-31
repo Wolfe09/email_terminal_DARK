@@ -3,7 +3,7 @@
         "from": "admin",
         "to": ["ALPHONSE", "TITUS", "admin"],
         "title": "Testing",
-        "body": "First line"
+        "body": "First line.  Second line"
     }
     {
         "from": "Agent TITUS",
