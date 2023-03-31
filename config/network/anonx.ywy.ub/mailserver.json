@@ -1,7 +1,14 @@
 [
     {
-        "from": "Major General Reginald Fairfield, U.S. Army (Ret.)",
-        "to": ["dgt1@anonx.com", "dgt2@anonx.com", "dgt3@anonx.com"],
+        "from": "admin",
+        "to": ["ALPHONSE", "TITUS", "admin"],
+        "title": "Testing",
+        "body": "First line",
+                "Second line"
+    }
+    {
+        "from": "Agent TITUS",
+        "to": ["TITUS", "dgt2@TIMMOTHY.com", "TERRA","TANYA"],
         "title": "Bees in the Attic",
         "body": "Home Safety inspector hospitalized for a “severe allergic reaction” to bee stings. After owners noticed “Honey” leaking from the home’s light fixtures, inspector Hal Lewis, 54, removed the fixtures to discover the attic loft of newly purchased 1930s home contaminated by a massive bee’s nest. Renovations have been put on hold pending Environmental Review and Relocation."
     }
